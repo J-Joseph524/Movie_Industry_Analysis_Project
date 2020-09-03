@@ -1,4 +1,4 @@
-# movie_project_330
+# Movie_Industry_Analysis_Project
 
 ## INTRODUCTION:
 We are presenting our pitch to Microsoft for recommendations on how to choose the best content for TV production to determine what factors lead to success based on our research & analysis.
